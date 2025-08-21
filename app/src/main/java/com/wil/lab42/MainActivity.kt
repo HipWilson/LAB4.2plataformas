@@ -1,3 +1,7 @@
+//Wilson Peña - 24760
+//Link del video:
+// https://youtu.be/9KJlbvvLzxI
+
 package com.wil.lab42
 
 import android.os.Bundle
